@@ -1,0 +1,9 @@
+C:\Users\gr33n\Desktop\Shya\Shya\bin\Debug\Shya.exe.config
+C:\Users\gr33n\Desktop\Shya\Shya\obj\Debug\Shya.csprojResolveAssemblyReference.cache
+C:\Users\gr33n\Desktop\Shya\Shya\obj\Debug\Shya.Form1.resources
+C:\Users\gr33n\Desktop\Shya\Shya\obj\Debug\Shya.csproj.GenerateResource.Cache
+C:\Users\gr33n\Desktop\Shya\Shya\bin\Debug\Shya.exe
+C:\Users\gr33n\Desktop\Shya\Shya\bin\Debug\Shya.pdb
+C:\Users\gr33n\Desktop\Shya\Shya\obj\Debug\Shya.Properties.Resources.resources
+C:\Users\gr33n\Desktop\Shya\Shya\obj\Debug\Shya.exe
+C:\Users\gr33n\Desktop\Shya\Shya\obj\Debug\Shya.pdb
